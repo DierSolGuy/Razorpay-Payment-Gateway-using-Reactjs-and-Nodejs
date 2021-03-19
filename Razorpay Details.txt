@@ -8,3 +8,4 @@ Algrenz Services:
 Test Mode:
 Key Id: rzp_test_uaCZoDBV5I88Br
 Key Secret: t2gvIaas21E4exCRwftCo3cj
+Web hooks Secret: 987654321
