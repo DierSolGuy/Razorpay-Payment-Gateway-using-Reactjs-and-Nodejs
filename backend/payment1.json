@@ -1,0 +1,58 @@
+{
+    "entity": "event",
+    "account_id": "acc_GoQdizOOSbOXZs",
+    "event": "payment.captured",
+    "contains": [
+        "payment"
+    ],
+    "payload": {
+        "payment": {
+            "entity": {
+                "id": "pay_GoWUz4d3PPzjmg",
+                "entity": "payment",
+                "amount": 100,
+                "currency": "INR",
+                "status": "captured",
+                "order_id": "order_GoWUEzEnqeqDaF",
+                "invoice_id": null,
+                "international": false,
+                "method": "card",
+                "amount_refunded": 0,
+                "refund_status": null,
+                "captured": true,
+                "description": "Thank you for nothing. Please give us some money",
+                "card_id": "card_GoWUzEY3J8w7x1",
+                "card": {
+                    "id": "card_GoWUzEY3J8w7x1",
+                    "entity": "card",
+                    "name": "Sourish Mukherjee",
+                    "last4": "1111",
+                    "network": "Visa",
+                    "type": "debit",
+                    "issuer": null,
+                    "international": false,
+                    "emi": false,
+                    "sub_type": "consumer"
+                },
+                "bank": null,
+                "wallet": null,
+                "vpa": null,
+                "email": "algrenzservices46@gmail.com",
+                "contact": "+918017579828",
+                "notes": [],
+                "fee": 2,
+                "tax": 0,
+                "error_code": null,
+                "error_description": null,
+                "error_source": null,
+                "error_step": null,
+                "error_reason": null,
+                "acquirer_data": {
+                    "auth_code": "461889"
+                },
+                "created_at": 1616159242
+            }
+        }
+    },
+    "created_at": 1616159244
+}

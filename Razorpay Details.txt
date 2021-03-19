@@ -1,0 +1,10 @@
+Algrenz Services: 
+
+<form>
+<script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_GoQzsYuv6tFkVH" async>
+ </script>
+ </form>
+
+Test Mode:
+Key Id: rzp_test_uaCZoDBV5I88Br
+Key Secret: t2gvIaas21E4exCRwftCo3cj
